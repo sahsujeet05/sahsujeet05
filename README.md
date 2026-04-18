@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/sahsujeet05/3034saurabhkumar/blob/main/header.png" />
+<!-- <img align="center" src="https://github.com/sahsujeet05/3034saurabhkumar/blob/main/header.png" /> -->
 
 
 ### Hi there, I'am Sujeet Kumar 👋
